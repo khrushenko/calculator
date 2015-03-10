@@ -9,7 +9,7 @@
     margin: -130px 0 0 -245px;
 }
 
-.calculator__result {
+.calculator__display {
     box-sizing: border-box;
     line-height: 50px;
     padding-right: 5px;
